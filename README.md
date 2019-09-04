@@ -1,5 +1,7 @@
 Project created: 24/May/2019
+
 Time Needle (web), an online timeline creator.
+
 Developed using ReactJS and [vis-timeline](https://visjs.org/). List of dependencies and libraries used can be found in the package.json file.
 
 
