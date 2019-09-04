@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import TableInput from "./TableInput"
 import TimeLine from "./TimeLine"
 import AdvancedOptions from "./AdvancedOptions"
-import Footer from "./Footer"
 import Grid from "@material-ui/core/Grid"
 import Button from '@material-ui/core/Button'
 import Fab from "@material-ui/core/Fab"
@@ -197,7 +196,6 @@ handleAddRow = (dateParam, eventParam) => {
             />}
 
         </div>
-        <Footer />
       </div>
     )
   }
